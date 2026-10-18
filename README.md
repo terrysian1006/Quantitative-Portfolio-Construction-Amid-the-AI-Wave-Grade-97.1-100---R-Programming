@@ -2,7 +2,7 @@
 
 *Out-of-sample backtest of seven portfolio strategies across 37 US-listed assets, Dec 2021 – Dec 2024 · R (quadprog, PerformanceAnalytics)*
 
-📄 Full report: [English](Financial_Data_Analysis_Final_Project_EN_TerryLai.pdf) · [中文](Financial_Data_Analysis_Final_Project_TerryLai.pdf) · 💻 Code: [`Financial_Data_Analysis_Final_Project_112652022.R`](Financial_Data_Analysis_Final_Project_TerryLai.R)
+📄 Full report: [English](Financial_Data_Analysis_Final_Project_EN_TerryLai.pdf) · [中文](Financial_Data_Analysis_Final_Project_TerryLai.pdf) · 💻 Code: [`Financial_Data_Analysis_Final_Project_TerryLai.R`](Financial_Data_Analysis_Final_Project_TerryLai.R)
 
 ---
 
